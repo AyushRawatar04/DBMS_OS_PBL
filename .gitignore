@@ -1,0 +1,7 @@
+*.o
+TicketBookingSystem
+*.log
+compile_commands.json
+.clangd/
+.vscode/
+.DS_Store

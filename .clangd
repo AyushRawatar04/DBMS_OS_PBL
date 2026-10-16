@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - -I/opt/homebrew/Cellar/mysql/26.7.0_1/include
+    - -std=c++17
